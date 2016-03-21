@@ -1,0 +1,38 @@
+Tujuan
+1. Membuat dan menggunakan repository
+2. Mengelola branch
+3. Push ke repo
+4. Pull request
+
+Membuat dan menggunakan repository
+==================================
+1. Login ke github
+2. Disamping username (kanan atas), klik pada tanda "+"
+   untuk membuat repo baru
+3. Pada repo name, isikan: "ruletheworld"
+4. Isikan deskripsi
+5. Pilih "Initialize this repo with a README"
+6. Klik "Create repository"
+
+Mengelola branch
+================
+Kita akan mengedit file README.md yang dihasilkan
+1. Pada repo "ruletheworld", sebelah kiri terdapat 
+   "branch: master", klik pada drop down tersebut.
+2. Isikan "edit-readme"
+3. Klik pada tulisan biru bagian bawah drop down
+   "Create branch ..."
+4. Setelah itu klik file "README.md"
+5. Klik pada ikon pensil 
+6. Edit file README
+7. Simpan dengan cara klik "Commit changes"
+
+Hasil edit akan disimpan ke branch master:
+1. Klik pull request
+2. Setelah melihat pull request dan kira2 sudah cukup,
+   klik pada "Create pull request"
+3. Kembali ke repo awal, "ruletheworld"
+4. Terdapat tombol "Merge pull request"
+5. Klik "Confirm merge"
+6. Setelah selesai, brach bisa dihapus dengan
+   klik pada "Delete branch"
